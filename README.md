@@ -19,8 +19,6 @@ Hoy sigo mejorando día a día mi criterio y mi confianza como desarrollador. Y 
 
 ## 🛠️ Tecnologías
 
-## 🛠️ Tecnologías
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
